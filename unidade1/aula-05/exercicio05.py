@@ -16,4 +16,4 @@ porcentagem = (percentual - 1) * 100
 novo = salario * percentual
 aumento = novo - salario
 
-print(f"Salário inicial: R${salario:.2f} \nPercentual de aumento: {porcentagem:.2f}% \nValor do Aumento: R${aumento:.2f} \nNovo Salário: R${novo:.2f}")
+print(f"\nSalário inicial: R${salario:.2f} \nPercentual de aumento: {porcentagem:.1f}% \nValor do Aumento: R${aumento:.2f} \nNovo Salário: R${novo:.2f}\n")
