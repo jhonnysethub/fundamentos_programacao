@@ -17,5 +17,3 @@ elif emprestimo == (salario * 10):
 
 else:
     print("Empréstimo pré-aprovado")
-
-
